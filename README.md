@@ -20,8 +20,8 @@ Dependencies
 - ruby-dev 
 - libpcap-dev 
 - libgmp3-dev
-- tabulate 
-- terminaltables
+- tabulate  //pip install tabulate
+- terminaltables //pip install terminaltables
 
 
 
